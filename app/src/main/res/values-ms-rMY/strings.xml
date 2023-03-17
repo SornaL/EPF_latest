@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KWSP</string>
+    <string name="action_settings">Tetapan</string>
+    <string name="action_about">Tentang</string>
+    <string name="menu_home">Rumah</string>
+    <string name="menu_dividend">Dividen</string>
+    <string name="menu_investment">Pelaburan</string>
+    <string name="menu_slideshow">Tayangan Slide</string>
+    <string name="aim">Menyedari pulangan dan membolehkan akses yang lebih baik kepada akaun anda</string>
+    <string name="slogan">"Menjaga Masa Depan Anda "</string>
+    <string name="dividend_2022">Dividen 2022</string>
+    <string name="dividend_message">"Untuk semua sumbangan anda, kerajaan menjamin kadar dividen berbayar minimum sebanyak 2.50% untuk Simpanan Konvensional. "</string>
+    <string name="investment_message">"Pelaburan KWSP berpandukan Peruntukan Aset Strategik (SAA) untuk mengoptimumkan pulangan dalam had toleransi risiko dana dan memastikan sasaran pelaburan strategik KWSP tercapai. "</string>
+    <string name="investment_heading">"Laburkan sebahagian daripada simpanan anda dengan cara anda "</string>
+    <string name="year">Tahun</string>
+</resources>
